@@ -1,0 +1,383 @@
+@import url('https://fonts.googleapis.com/css?family=STSong:400|Panton:700|Oriya+MN:400|Times+New Roman:400|Helvetica+Neue:700');
+
+
+/* ANIMA screen - iphone-xxs8 */
+.font-class-1 {
+  font-family         : STSong, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 400;
+}
+.font-class-2 {
+  font-family         : Panton, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 700;
+}
+.font-class-3 {
+  font-family         : Oriya MN, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 400;
+}
+.font-class-4 {
+  font-family         : Helvetica Neue, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 700;
+}
+.font-class-5 {
+  color               : var(--auto-palette-color-4);
+  font-family         : Times New Roman, Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  line-height         : 30.0px;
+}
+:root {
+  --auto-palette-color-1: rgba(119,139,217,1.0);
+  --auto-palette-color-2: rgba(112,112,112,1.0);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(4,77,155,1.0);
+  --auto-palette-color-5: rgba(68,68,68,1.0);
+  --auto-palette-color-6: rgba(240,246,247,1.0);
+  --auto-palette-color-7: rgba(62,55,54,0.937254901961);
+}
+.iphone-xxs8-1hnO41 .overlap-group-sW8hkK {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 160px;
+  position            : relative;
+  width               : 375px;
+}
+.iphone-xxs8-1hnO41 .overlap-group1-ToGkbp {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 589px;
+  margin-left         : -22.14px;
+  margin-top          : 10px;
+  position            : relative;
+  width               : 409px;
+}
+.iphone-xxs8-1hnO41 .auto-flex-t4ou1m {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 57px;
+  justify-content     : flex-start;
+  margin-left         : 30.0px;
+  margin-top          : 28px;
+  position            : relative;
+  width               : auto;
+}
+.iphone-xxs8-1hnO41 .auto-flex-t4ou1m .a853-HwJxyP .a831-fsXZ9m {
+  background-color    : rgba(255,255,255,0);
+  height              : 30px;
+  left                : 17px;
+  position            : absolute;
+  top                 : 14px;
+  transform           : rotate(0deg);
+  width               : 21px;
+}
+.iphone-xxs8-1hnO41 .auto-flex-t4ou1m .a853-HwJxyP .a831-fsXZ9m .a130-UqVr85 {
+  background-color    : rgba(240,246,247,0);
+  height              : 56px;
+  left                : -14px;
+  position            : absolute;
+  top                 : -3px;
+  transform           : rotate(0deg);
+  width               : 48px;
+}
+.iphone-xxs8-1hnO41 .auto-flex-t4ou1m .a853-HwJxyP .a831-fsXZ9m .a111-w1LmAI {
+  background-color    : rgba(240,246,247,0);
+  height              : 30px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 21px;
+}
+.iphone-xxs8-1hnO41 .overlap-group1-ToGkbp .rectngulo424-g12Zws {
+  background-color    : rgba(255,255,255,0);
+  height              : 160px;
+  left                : 10px;
+  position            : absolute;
+  top                 : 429px;
+  width               : 399px;
+}
+.iphone-xxs8-1hnO41 .overlap-group1-ToGkbp .a715-mrfYfF {
+  background-color    : rgba(240,246,247,0);
+  height              : 70px;
+  left                : 80px;
+  position            : absolute;
+  top                 : 465px;
+  width               : 59px;
+}
+.iphone-xxs8-1hnO41 .overlap-group1-ToGkbp .a56-7yAxs6 {
+  background-color    : rgba(240,246,247,0);
+  height              : 45px;
+  left                : 93px;
+  position            : absolute;
+  top                 : 468px;
+  width               : 33px;
+}
+.iphone-xxs8-1hnO41 .overlap-group1-ToGkbp .icon-ionic-ios-arrow-forward7-ckQFbc {
+  background-color    : rgba(119,139,217,0);
+  height              : 24px;
+  left                : 326px;
+  position            : absolute;
+  top                 : 486px;
+  width               : 17px;
+}
+.iphone-xxs8-1hnO41 .overlap-group1-ToGkbp .a708-3UjDn5 {
+  background-color    : rgba(255,255,255,0);
+  height              : 22px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 457px;
+  width               : 24px;
+}
+.iphone-xxs8-1hnO41 .overlap-group1-ToGkbp .the-pc-material-is-resistant-to-compression-high-temperature-and-rain-and-has-high-hardness-but-it-is-not-abrasion-resistant-and-scratch-resistant-the-universal-wheel-is-a360-degree-rotating-movement-which-is-easier-and-more-convenient-to-pull-up-on9-08cOYA {
+  background-color    : rgba(112,112,112,0);
+  color               : var(--auto-palette-color-2);
+  font-size           : 15.0px;
+  height              : 394px;
+  left                : 52px;
+  line-height         : 15.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 317px;
+}
+.iphone-xxs8-1hnO41 .overlap-group1-ToGkbp .overpacker10-bqXI8M {
+  background-color    : rgba(255,255,255,0);
+  height              : 73px;
+  left                : 52px;
+  position            : absolute;
+  top                 : 347px;
+  width               : 110px;
+}
+.iphone-xxs8-1hnO41 .overlap-group1-ToGkbp .wheels11-FsSZ4M {
+  background-color    : rgba(255,255,255,0);
+  height              : 88px;
+  left                : 168px;
+  position            : absolute;
+  top                 : 347px;
+  width               : 93px;
+}
+.iphone-xxs8-1hnO41 .overlap-group1-ToGkbp .locks12-Hth0Sf {
+  background-color    : rgba(255,255,255,0);
+  height              : 88px;
+  left                : 264px;
+  position            : absolute;
+  top                 : 347px;
+  width               : 88px;
+}
+.iphone-xxs8-1hnO41 .overlap-group1-ToGkbp .universal-wheel13-npfSKn {
+  background-color    : rgba(68,68,68,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 10.0px;
+  height              : 15px;
+  left                : 168px;
+  line-height         : 10.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 447px;
+  transform           : rotate(0deg);
+  width               : 92px;
+}
+.iphone-xxs8-1hnO41 .overlap-group1-ToGkbp .locker14-nuhUyF {
+  background-color    : rgba(68,68,68,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 10.0px;
+  height              : 15px;
+  left                : 271px;
+  line-height         : 10.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 447px;
+  transform           : rotate(0deg);
+  width               : 83px;
+}
+.iphone-xxs8-1hnO41 .overlap-group1-ToGkbp .polypropylene-is-similar-to-polycarbonate-both-temperature-and-chemical-resistant15-5ycNeh {
+  background-color    : rgba(68,68,68,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 8.0px;
+  height              : 30px;
+  left                : 52px;
+  line-height         : 8.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 430px;
+  transform           : rotate(0deg);
+  width               : 112px;
+}
+.iphone-xxs8-1hnO41 .overlap-group-sW8hkK .a21-KHgRMl {
+  background-color    : rgba(169,200,246,0);
+  height              : 105px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 160px;
+}
+.iphone-xxs8-1hnO41 .auto-flex-t4ou1m .a853-HwJxyP .a50-mrfKZN {
+  background-color    : rgba(255,255,255,0);
+  height              : 117px;
+  left                : -30px;
+  position            : absolute;
+  top                 : -20px;
+  transform           : rotate(0deg);
+  width               : 117px;
+}
+.iphone-xxs8-1hnO41 .overlap-group-sW8hkK .a30-urE6Qo {
+  background-color    : rgba(216,237,245,0);
+  border-radius       : 50.0px;
+  height              : 160px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 375px;
+}
+.iphone-xxs8-1hnO41 .auto-flex-t4ou1m .a853-HwJxyP {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 57px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 57px;
+}
+.iphone-xxs8-1hnO41 {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-6);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 812px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 375.0px;
+}
+.iphone-xxs8-1hnO41 .auto-flex-t4ou1m .constraints2-cpfYlM {
+  background-color    : rgba(119,139,217,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 20.0px;
+  height              : auto;
+  line-height         : 20.0px;
+  margin-left         : 10px;
+  margin-top          : 5.0px;
+  min-height          : 26px;
+  min-width           : 156px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}

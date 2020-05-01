@@ -1,0 +1,338 @@
+@import url('https://fonts.googleapis.com/css?family=STSong:400|Panton:700|Oriya+MN:400|Times+New Roman:400|Helvetica+Neue:700');
+
+
+/* ANIMA screen - iphone-xxs2 */
+.font-class-1 {
+  font-family         : STSong, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 400;
+}
+.font-class-2 {
+  font-family         : Panton, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 700;
+}
+.font-class-3 {
+  font-family         : Oriya MN, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 400;
+}
+.font-class-4 {
+  font-family         : Helvetica Neue, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 700;
+}
+.font-class-5 {
+  color               : var(--auto-palette-color-4);
+  font-family         : Times New Roman, Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  line-height         : 30.0px;
+}
+:root {
+  --auto-palette-color-1: rgba(119,139,217,1.0);
+  --auto-palette-color-2: rgba(112,112,112,1.0);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(4,77,155,1.0);
+  --auto-palette-color-5: rgba(68,68,68,1.0);
+  --auto-palette-color-6: rgba(240,246,247,1.0);
+  --auto-palette-color-7: rgba(62,55,54,0.937254901961);
+}
+.iphone-xxs2-dhSIGV .a907-yyuryf .auto-flex-Frwm14 {
+  align-items         : flex-start;
+  align-self          : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-bottom       : 6.0px;
+  position            : relative;
+  width               : 130px;
+}
+.iphone-xxs2-dhSIGV .a907-yyuryf .auto-flex1-GiNxqf {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-bottom       : -5.5px;
+  margin-left         : 77px;
+  position            : relative;
+  width               : 164px;
+}
+.iphone-xxs2-dhSIGV {
+  background-color    : var(--auto-palette-color-6);
+  height              : 812.0px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 375.0px;
+}
+.iphone-xxs2-dhSIGV .a420-DrQMSN {
+  background-color    : var(--auto-palette-color-1);
+  height              : 814px;
+  left                : 0px;
+  position            : absolute;
+  top                 : -2px;
+  transform           : rotate(0deg);
+  width               : 375px;
+}
+.iphone-xxs2-dhSIGV .a351-3PJCrT {
+  background-color    : rgba(169,200,246,0);
+  height              : 115px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 697px;
+  width               : 375px;
+}
+.iphone-xxs2-dhSIGV .a322-S6cPIR {
+  background-color    : rgba(216,237,245,0);
+  height              : 290px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 522px;
+  width               : 117px;
+}
+.iphone-xxs2-dhSIGV .a343-etlqKo {
+  background-color    : rgba(216,237,245,0);
+  height              : 92px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 375px;
+}
+.iphone-xxs2-dhSIGV .a334-coxrPa {
+  background-color    : rgba(169,200,246,0);
+  height              : 206px;
+  left                : 215px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 160px;
+}
+.iphone-xxs2-dhSIGV .suitcase5-Ajrn8n {
+  background-color    : rgba(63,55,54,0);
+  color               : rgba(63,55,54,1.0);
+  font-size           : 43.0px;
+  height              : 66px;
+  left                : 107px;
+  line-height         : 43.0px;
+  overflow            : hidden;
+  position            : absolute;
+  text-align          : left;
+  top                 : 240px;
+  transform           : rotate(0deg);
+  width               : 190px;
+}
+.iphone-xxs2-dhSIGV .a726-6haIds {
+  background-color    : rgba(62,55,54,0);
+  height              : 0px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 411px;
+  width               : 128px;
+}
+.iphone-xxs2-dhSIGV .a907-yyuryf {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 174px;
+  justify-content     : flex-start;
+  left                : 16px;
+  position            : absolute;
+  top                 : 333px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.iphone-xxs2-dhSIGV .a907-yyuryf .auto-flex-Frwm14 .affordance0-Sfan0r {
+  background-color    : rgba(4,77,155,0);
+  flex-shrink         : 0;
+  height              : auto;
+  min-height          : 35px;
+  min-width           : 140px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.iphone-xxs2-dhSIGV .a907-yyuryf .auto-flex1-GiNxqf .constraints1-L7Vo2O {
+  background-color    : rgba(4,77,155,0);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-right        : 5.0px;
+  min-height          : 35px;
+  min-width           : 149px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.iphone-xxs2-dhSIGV .a907-yyuryf .auto-flex-Frwm14 .artvive2-rIGAnz {
+  background-color    : rgba(4,77,155,0);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-top          : 88px;
+  min-height          : 35px;
+  min-width           : 95px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.iphone-xxs2-dhSIGV .a907-yyuryf .auto-flex1-GiNxqf .historical-development3-l2vbMc {
+  background-color    : rgba(4,77,155,0);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-top          : 73px;
+  min-height          : 69px;
+  min-width           : 174px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.iphone-xxs2-dhSIGV .a18-y2HxM3 {
+  background-color    : rgba(169,200,246,0);
+  height              : 28px;
+  left                : 101px;
+  position            : absolute;
+  top                 : 364px;
+  width               : 33px;
+}
+.iphone-xxs2-dhSIGV .a391-l8CjZW {
+  background-color    : rgba(169,200,246,0);
+  height              : 28px;
+  left                : 226px;
+  position            : absolute;
+  top                 : 364px;
+  width               : 33px;
+}
+.iphone-xxs2-dhSIGV .a410-Sr2vgZ {
+  background-color    : rgba(169,200,246,0);
+  height              : 28px;
+  left                : 215px;
+  position            : absolute;
+  top                 : 463px;
+  width               : 33px;
+}
+.iphone-xxs2-dhSIGV .a511-9izwuD {
+  background-color    : rgba(169,200,246,0);
+  height              : 28px;
+  left                : 101px;
+  position            : absolute;
+  top                 : 463px;
+  width               : 33px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}

@@ -1,0 +1,369 @@
+@import url('https://fonts.googleapis.com/css?family=STSong:400|Panton:700|Oriya+MN:400|Times+New Roman:400|Helvetica+Neue:700');
+
+
+/* ANIMA screen - iphone-xxs1 */
+.font-class-1 {
+  font-family         : STSong, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 400;
+}
+.font-class-2 {
+  font-family         : Panton, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 700;
+}
+.font-class-3 {
+  font-family         : Oriya MN, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 400;
+}
+.font-class-4 {
+  font-family         : Helvetica Neue, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 700;
+}
+.font-class-5 {
+  color               : var(--auto-palette-color-4);
+  font-family         : Times New Roman, Helvetica, Arial, serif;
+  font-size           : 30.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  line-height         : 30.0px;
+}
+:root {
+  --auto-palette-color-1: rgba(119,139,217,1.0);
+  --auto-palette-color-2: rgba(112,112,112,1.0);
+  --auto-palette-color-3: rgba(255,255,255,1.0);
+  --auto-palette-color-4: rgba(4,77,155,1.0);
+  --auto-palette-color-5: rgba(68,68,68,1.0);
+  --auto-palette-color-6: rgba(240,246,247,1.0);
+  --auto-palette-color-7: rgba(62,55,54,0.937254901961);
+}
+.iphone-xxs1-RT2LT8 {
+  background-color    : var(--auto-palette-color-1);
+  height              : 812.0px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 375.0px;
+}
+.iphone-xxs1-RT2LT8 .a301-16puxq {
+  background-color    : rgba(216,237,245,0);
+  border-radius       : 50.0px;
+  height              : 290px;
+  left                : 258px;
+  position            : absolute;
+  top                 : 30px;
+  width               : 117px;
+}
+.iphone-xxs1-RT2LT8 .a11-VSkxRy {
+  background-color    : rgba(240,246,247,0);
+  border-radius       : 30.0px;
+  height              : 700px;
+  left                : -60px;
+  position            : absolute;
+  top                 : 152px;
+  width               : 495px;
+}
+.iphone-xxs1-RT2LT8 .a82-2hoPjE {
+  background-color    : var(--auto-palette-color-3);
+  border-radius       : 10.0px;
+  height              : 30px;
+  left                : 315px;
+  position            : absolute;
+  top                 : 507px;
+  transform           : rotate(0deg);
+  width               : 30px;
+}
+.iphone-xxs1-RT2LT8 .a1311-Q5BNh0 {
+  background-color    : rgba(240,246,247,0);
+  height              : 68px;
+  left                : 159px;
+  position            : absolute;
+  top                 : 720px;
+  width               : 57px;
+}
+.iphone-xxs1-RT2LT8 .a39-rvDsEk {
+  background-color    : rgba(240,246,247,0);
+  height              : 10px;
+  left                : 116px;
+  position            : absolute;
+  top                 : 350px;
+  width               : 10px;
+}
+.iphone-xxs1-RT2LT8 .a28-pEfnpW {
+  background-color    : rgba(240,246,247,0);
+  height              : 10px;
+  left                : 98px;
+  position            : absolute;
+  top                 : 340px;
+  width               : 10px;
+}
+.iphone-xxs1-RT2LT8 .a17-C1otVM {
+  background-color    : rgba(119,139,217,0);
+  height              : 18px;
+  left                : 77px;
+  position            : absolute;
+  top                 : 324px;
+  width               : 18px;
+}
+.iphone-xxs1-RT2LT8 .historical-development10-RmTQd4 {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-3);
+  font-size           : 18.0px;
+  height              : auto;
+  left                : 30px;
+  line-height         : 18.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 68px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.iphone-xxs1-RT2LT8 .a202003087322015-Nd6lPs {
+  background-color    : rgba(255,255,255,0);
+  height              : 75px;
+  left                : 116px;
+  position            : absolute;
+  top                 : 201px;
+  width               : 216px;
+}
+.iphone-xxs1-RT2LT8 .for-all-time-people-traveled-to-and-from-various-destinations-and-while-doing-so-he-needed-to-carry-supplies-and-food-to-aid-his-travels-to-solve-this-problem-a-suitcase-was-created1153first-known-wheeled-luggage-appears-in-palestine-during-war-pul16-yMHGke {
+  background-color    : rgba(112,112,112,0);
+  color               : var(--auto-palette-color-2);
+  font-family         : "Oriya MN", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  height              : 297px;
+  left                : 38px;
+  letter-spacing      : 0.00px;
+  line-height         : 15.0px;
+  overflow            : hidden;
+  position            : absolute;
+  text-align          : left;
+  top                 : 321px;
+  transform           : rotate(0deg);
+  width               : 302px;
+}
+.iphone-xxs1-RT2LT8 .for-all-time-people-traveled-to-and-from-various-destinations-and-while-doing-so-he-needed-to-carry-supplies-and-food-to-aid-his-travels-to-solve-this-problem-a-suitcase-was-created1153first-known-wheeled-luggage-appears-in-palestine-during-war-pul16-yMHGke .span0-4vHmKN {
+  color               : rgba(112,112,112,1.0);
+  font-family         : Oriya MN, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 400;
+}
+.iphone-xxs1-RT2LT8 .a1112-ITMLWQ {
+  background-color    : rgba(240,246,247,0);
+  height              : 44px;
+  left                : 172px;
+  position            : absolute;
+  top                 : 723px;
+  width               : 32px;
+}
+.iphone-xxs1-RT2LT8 .a113-p6yO2q {
+  background-color    : rgba(119,139,217,0);
+  color               : var(--auto-palette-color-1);
+  font-size           : 11.0px;
+  height              : auto;
+  left                : 285px;
+  line-height         : 11.0px;
+  opacity             : 0.0;
+  position            : absolute;
+  text-align          : center;
+  top                 : 717px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.iphone-xxs1-RT2LT8 .a202003087285014-E9pyQe {
+  background-color    : rgba(255,255,255,0);
+  height              : 75px;
+  left                : 49px;
+  position            : absolute;
+  top                 : 104px;
+  width               : 212px;
+}
+.iphone-xxs1-RT2LT8 .for-all-time-people-traveled-to-and-from-various-destinations-and-while-doing-so-he-needed-to-carry-supplies-and-food-to-aid-his-travels-to-solve-this-problem-a-suitcase-was-created1153first-known-wheeled-luggage-appears-in-palestine-during-war-pul16-yMHGke .span1-ForTDO {
+  color               : rgba(62,55,54,0.937254901961);
+  font-family         : Oriya MN, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 400;
+}
+.iphone-xxs1-RT2LT8 .for-all-time-people-traveled-to-and-from-various-destinations-and-while-doing-so-he-needed-to-carry-supplies-and-food-to-aid-his-travels-to-solve-this-problem-a-suitcase-was-created1153first-known-wheeled-luggage-appears-in-palestine-during-war-pul16-yMHGke .span2-7TQ0e2 {
+  color               : rgba(112,112,112,1.0);
+  font-family         : Oriya MN, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 400;
+}
+.iphone-xxs1-RT2LT8 .icon-ionic-ios-arrow-forward17-ilj4x9 {
+  background-color    : rgba(119,139,217,0);
+  height              : 24px;
+  left                : 304px;
+  position            : absolute;
+  top                 : 741px;
+  width               : 17px;
+}
+.iphone-xxs1-RT2LT8 .a25-9RAePu {
+  background-color    : rgba(169,200,246,0);
+  height              : 105px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 160px;
+}
+.iphone-xxs1-RT2LT8 .rectngulo4241-iMGMVT {
+  background-color    : rgba(255,255,255,0);
+  height              : 162px;
+  left                : -12px;
+  position            : absolute;
+  top                 : 680px;
+  width               : 399px;
+}
+.iphone-xxs1-RT2LT8 .a136-v1SXTU .a20-RmGk69 {
+  background-color    : rgba(119,139,217,0);
+  flex-shrink         : 0;
+  height              : 12px;
+  margin-right        : 0.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 12px;
+}
+.iphone-xxs1-RT2LT8 .a136-v1SXTU {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  left                : 313px;
+  position            : absolute;
+  top                 : 63px;
+  transform           : rotate(0deg);
+  width               : 22px;
+}
+.iphone-xxs1-RT2LT8 .a136-v1SXTU .a31-Ozk0Qg {
+  background-color    : rgba(119,139,217,0);
+  flex-shrink         : 0;
+  height              : 18px;
+  margin-top          : 1px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 22px;
+}
+.iphone-xxs1-RT2LT8 .a13-6nLoiy {
+  background-color    : rgba(154,186,174,0);
+  color               : rgba(154,186,174,1.0);
+  font-size           : 20.0px;
+  height              : auto;
+  left                : 290px;
+  line-height         : 20.0px;
+  opacity             : 0.0;
+  position            : absolute;
+  text-align          : center;
+  top                 : 480px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
